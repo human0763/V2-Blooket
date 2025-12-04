@@ -35,7 +35,7 @@ Make sure you're running it properly (see [How to use](https://github.com/Minesr
 <details><summary><h3>What is the difference between obfuscated and unobfuscated?</h3></summary>
 
 Obfuscated are scripts that are changed to be unreadable, unobfuscated are the original scripts (both with an added update checker).
-Unobfuscated scripts will not work if you try copying it and pasting it into a bookmarklet. This is because of the lack of semicolons in certain places. Please either use the obfuscated scripts or use one of the methods mentions in the first FAQ
+Unobfuscated scripts will not work if you try copying it and pasting it into a bookmarklet. This is because of the lack of semicolons in certain places. Please either use the obfuscated scripts or use one of the methods mentions in the first FAQ 
 </details>
 
 <details><summary><h3>Can you give me infinite tokens / bypass daily limit / permanently give me blooks / change pack luck?</h3></summary>
